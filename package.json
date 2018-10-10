@@ -81,7 +81,7 @@
     "@commitlint/cli": "7.2.0",
     "@commitlint/config-conventional": "7.1.2",
     "@types/chokidar": "1.7.5",
-    "@types/jest": "23.3.3",
+    "@types/jest": "23.3.6",
     "@types/json5": "0.0.30",
     "@types/node": "10.11.4",
     "@types/prettier": "1.13.2",
